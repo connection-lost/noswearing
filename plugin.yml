@@ -1,0 +1,6 @@
+name: NoSwearing
+main: me.frank.noswearing.nsmain
+version: 1.0
+description: >
+             NoSwearing!
+commands:
